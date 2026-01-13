@@ -29,4 +29,4 @@ See [LICENSE.txt](LICENSE.txt) for full terms.
 
 **[Purchase commercial license](https://buy.stripe.com/00wbJ1eRx0gz8NvbPXdQQ00)**
 
-**Contact:** Choustie-Algorithm@protonmail.com
+**Contact:** Choustie@outlook.com
