@@ -1,0 +1,36 @@
+PATENT NOTICE
+
+================================================================================
+TITLE
+================================================================================
+
+Progress-State Indexing for Spatiotemporal Intersection Detection
+
+================================================================================
+APPLICATION
+================================================================================
+
+Application Number: SE 2630027-7
+Filing Date: 2026-01-12
+Status: Pending
+Jurisdiction: Sweden (PRV - Swedish Intellectual Property Office)
+
+================================================================================
+APPLICANT / INVENTOR
+================================================================================
+
+Name: Leon Per Bertil Borgström
+Nationality: Swedish
+
+================================================================================
+NOTICE
+================================================================================
+
+This repository contains implementations of methods described in the above 
+patent application.
+
+Unauthorized commercial use may constitute patent infringement upon grant.
+
+See LICENSE.txt for licensing terms.
+
+================================================================================
