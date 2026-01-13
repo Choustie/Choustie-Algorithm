@@ -19,6 +19,16 @@ Entities that will collide are already neighbors in the index at insertion time.
 
 Patent pending: SE 2630027-7 (Swedish Patent and Registration Office)
 
+## About
+
+Invented, patented, and licensed by a 19 year old in Sweden. Alone.
+
+No lawyers. No funding. No team.
+
+Patent filed: SE 2630027-7, January 12, 2026.
+
+If I go quiet, the documents don't.
+
 ## License
 
 Free for individuals and organizations with revenue under $100,000 USD.
